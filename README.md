@@ -5,7 +5,7 @@
 https://github.com/C3Pool/ST-CryptoServer/releases/download/v1.0.5/StarMapTools.zip
 ```
 
-#### 服务端按照流程
+#### 服务端安装流程
 
 #### 一键安装&启动
 
