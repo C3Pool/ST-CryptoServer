@@ -1,4 +1,10 @@
 # ST-CryptoServer
+
+#### StarMap用户端下载地址
+```shell
+https://github.com/C3Pool/ST-CryptoServer/releases/download/v1.0.5/StarMapTools.zip
+```
+
 #### 一键安装&启动
 
 ```shell
