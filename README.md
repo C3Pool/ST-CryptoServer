@@ -13,6 +13,8 @@ https://github.com/C3Pool/ST-CryptoServer/releases/download/v1.0.5/StarMapTools.
 wget -O install.sh https://raw.githubusercontent.com/C3Pool/ST-CryptoServer/main/install.sh && bash install.sh
 ```
 
+#### 如已使用以上 一键安装&启动 则无需使用下方命令
+
 #### 启动命令
 
 ```shell
